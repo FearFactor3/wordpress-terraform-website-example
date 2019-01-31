@@ -11,4 +11,12 @@ cidrs        = {
   rds3     = "10.0.7.0/24"
 }
 localip    = "3.17.150.16/32"
-
+domain_name = "fearfactor3"
+db_instance_class = "db.t2.micro"
+dbname = "fearfactor3db"
+dbuser = "fearfactor3user"
+dbpassword = "fearfactor3pass"
+elb_healthy_threshold = "2"
+elb_unhealthy_threshold = "2"
+elb_timeout = "3"
+elb_interval = "30"
