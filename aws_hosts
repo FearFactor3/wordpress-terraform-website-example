@@ -1,0 +1,5 @@
+[dev]
+18.215.171.128
+[dev:vars]
+s3code=fearfactor3-50226
+domain=fearfactor3
